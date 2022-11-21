@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     Button Register;
     DBhelper DB;
 
+    
 
     @SuppressLint("MissingInflatedId")
     @Override
