@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="112dp"
         android:fontFamily="@font/anton"
-        android:text="Book Shop"
+        android:text="JobUp"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="#0465A6"
         android:textSize="24sp"
